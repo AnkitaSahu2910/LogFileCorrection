@@ -1,0 +1,17 @@
+{
+  "name": "ankita",
+  "version": "1.0.0",
+  "description": "code for log file edit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha tests"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mocha": "^10.0.0"
+  },
+  "author": "Ankita Sahu",
+  "license": "ISC"
+}
